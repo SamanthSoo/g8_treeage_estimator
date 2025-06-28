@@ -1,0 +1,1638 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "Tree_ID": "UTMBERSERIA00303",
+                "Common_Name": "Ant Tree",
+                "Scientific_Name": "-",
+                "Growth_Rate_cm": "2.00",
+                "Tree_Age": "17.2",
+                "Circumference_cm": "27.00",
+                "DBH_cm": "8.59",
+                "Height_m": "3.00",
+                "Wood_Density": "0.60",
+                "AGB_kg": "542.38",
+                "Carbon_Stock_kg": "271.19"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.635205,
+                    1.560194
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Tree_ID": "UTMBERSERIA00304",
+                "Common_Name": "Ant Tree",
+                "Scientific_Name": "-",
+                "Growth_Rate_cm": "3.00",
+                "Tree_Age": "25.8",
+                "Circumference_cm": "27.00",
+                "DBH_cm": "8.59",
+                "Height_m": "3.00",
+                "Wood_Density": "0.60",
+                "AGB_kg": "542.38",
+                "Carbon_Stock_kg": "271.19"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.635205,
+                    1.560194
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Tree_ID": "UTMBERSERIA00305",
+                "Common_Name": "Ant Tree",
+                "Scientific_Name": "-",
+                "Growth_Rate_cm": "3.00",
+                "Tree_Age": "25.8",
+                "Circumference_cm": "27.00",
+                "DBH_cm": "8.59",
+                "Height_m": "3.00",
+                "Wood_Density": "0.60",
+                "AGB_kg": "542.38",
+                "Carbon_Stock_kg": "271.19"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.635205,
+                    1.560194
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Tree_ID": "UTMBERSERIA00306",
+                "Common_Name": "Ant Tree",
+                "Scientific_Name": "-",
+                "Growth_Rate_cm": "3.00",
+                "Tree_Age": "25.8",
+                "Circumference_cm": "27.00",
+                "DBH_cm": "8.60",
+                "Height_m": "3.00",
+                "Wood_Density": "0.60",
+                "AGB_kg": "542.40",
+                "Carbon_Stock_kg": "271.20"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.635205,
+                    1.560194
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Tree_ID": "UTMBERSERIA00307",
+                "Common_Name": "Ant Tree",
+                "Scientific_Name": "-",
+                "Growth_Rate_cm": "3.00",
+                "Tree_Age": "25.8",
+                "Circumference_cm": "27.00",
+                "DBH_cm": "8.59",
+                "Height_m": "3.00",
+                "Wood_Density": "0.60",
+                "AGB_kg": "542.38",
+                "Carbon_Stock_kg": "271.19"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.635205,
+                    1.560194
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Tree_ID": "UTMBERSERIA00308",
+                "Common_Name": "Ant Tree",
+                "Scientific_Name": "-",
+                "Growth_Rate_cm": "3.00",
+                "Tree_Age": "25.8",
+                "Circumference_cm": "27.00",
+                "DBH_cm": "8.59",
+                "Height_m": "3.00",
+                "Wood_Density": "0.60",
+                "AGB_kg": "542.38",
+                "Carbon_Stock_kg": "271.19"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.635205,
+                    1.560194
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Tree_ID": "UTMBERSERIA00309",
+                "Common_Name": "Ant Tree",
+                "Scientific_Name": "-",
+                "Growth_Rate_cm": "3.00",
+                "Tree_Age": "9.0",
+                "Circumference_cm": "27.00",
+                "DBH_cm": "3.00",
+                "Height_m": "0.60",
+                "Wood_Density": "8.59",
+                "AGB_kg": "542.38",
+                "Carbon_Stock_kg": "271.19"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.635205,
+                    1.560194
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Tree_ID": "UTMBERSERIA00310",
+                "Common_Name": "Ant Tree",
+                "Scientific_Name": "-",
+                "Growth_Rate_cm": "3.00",
+                "Tree_Age": "9.0",
+                "Circumference_cm": "27.00",
+                "DBH_cm": "3.00",
+                "Height_m": "0.60",
+                "Wood_Density": "8.59",
+                "AGB_kg": "542.38",
+                "Carbon_Stock_kg": "271.19"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.635205,
+                    1.560194
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Tree_ID": "UTMBERSERIA00311",
+                "Common_Name": "Ant Tree",
+                "Scientific_Name": "-",
+                "Growth_Rate_cm": "3.00",
+                "Tree_Age": "25.8",
+                "Circumference_cm": "27.00",
+                "DBH_cm": "8.59",
+                "Height_m": "3.00",
+                "Wood_Density": "0.60",
+                "AGB_kg": "542.38",
+                "Carbon_Stock_kg": "271.19"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.635205,
+                    1.560194
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Tree_ID": "UTMBERSERIA00312",
+                "Common_Name": "Angsana",
+                "Scientific_Name": "Amboyna-wood",
+                "Growth_Rate_cm": "2.00",
+                "Tree_Age": "78.0",
+                "Circumference_cm": "124.00",
+                "DBH_cm": "39.00",
+                "Height_m": "10.00",
+                "Wood_Density": "0.50",
+                "AGB_kg": "4795.75",
+                "Carbon_Stock_kg": "2397.87"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.635272,
+                    1.558502
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Tree_ID": "UTMBERSERIA00314",
+                "Common_Name": "Angsana",
+                "Scientific_Name": "Amboyna-wood",
+                "Growth_Rate_cm": "2.00",
+                "Tree_Age": "78.0",
+                "Circumference_cm": "124.00",
+                "DBH_cm": "39.00",
+                "Height_m": "10.00",
+                "Wood_Density": "0.50",
+                "AGB_kg": "4795.75",
+                "Carbon_Stock_kg": "2397.87"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.635272,
+                    1.558502
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Tree_ID": "UTMBERSERIA00315",
+                "Common_Name": "Angsana",
+                "Scientific_Name": "Amboyna-wood",
+                "Growth_Rate_cm": "2.00",
+                "Tree_Age": "78.0",
+                "Circumference_cm": "124.00",
+                "DBH_cm": "39.00",
+                "Height_m": "10.00",
+                "Wood_Density": "0.50",
+                "AGB_kg": "4795.75",
+                "Carbon_Stock_kg": "2397.87"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.635272,
+                    1.558502
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Tree_ID": "UTMBERSERIA00316",
+                "Common_Name": "Angsana",
+                "Scientific_Name": "Amboyna-wood",
+                "Growth_Rate_cm": "2.00",
+                "Tree_Age": "78.0",
+                "Circumference_cm": "124.00",
+                "DBH_cm": "39.00",
+                "Height_m": "10.00",
+                "Wood_Density": "0.50",
+                "AGB_kg": "4795.75",
+                "Carbon_Stock_kg": "2397.87"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.635272,
+                    1.558502
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Tree_ID": "UTMBERSERIA00317",
+                "Common_Name": "Angsana",
+                "Scientific_Name": "Amboyna-wood",
+                "Growth_Rate_cm": "2.00",
+                "Tree_Age": "78.0",
+                "Circumference_cm": "124.00",
+                "DBH_cm": "39.00",
+                "Height_m": "10.00",
+                "Wood_Density": "0.50",
+                "AGB_kg": "4795.75",
+                "Carbon_Stock_kg": "2397.87"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.635272,
+                    1.558502
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Tree_ID": "UTMBERSERIA00318",
+                "Common_Name": "Black Penda",
+                "Scientific_Name": "Xanthostemon Chrysanthus",
+                "Growth_Rate_cm": "3.00",
+                "Tree_Age": "20.1",
+                "Circumference_cm": "21.00",
+                "DBH_cm": "6.70",
+                "Height_m": "3.00",
+                "Wood_Density": "0.88",
+                "AGB_kg": "7.09",
+                "Carbon_Stock_kg": "3.55"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.635376,
+                    1.558047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Tree_ID": "UTMBERSERIA00319",
+                "Common_Name": "Black Penda",
+                "Scientific_Name": "Xanthostemon Chrysanthus",
+                "Growth_Rate_cm": "3.00",
+                "Tree_Age": "20.1",
+                "Circumference_cm": "21.00",
+                "DBH_cm": "6.70",
+                "Height_m": "3.00",
+                "Wood_Density": "0.88",
+                "AGB_kg": "7.09",
+                "Carbon_Stock_kg": "3.55"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.635376,
+                    1.558047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Tree_ID": "UTMBERSERIA00320",
+                "Common_Name": "Black Penda",
+                "Scientific_Name": "Xanthostemon Chrysanthus",
+                "Growth_Rate_cm": "3.00",
+                "Tree_Age": "20.1",
+                "Circumference_cm": "21.00",
+                "DBH_cm": "6.70",
+                "Height_m": "3.00",
+                "Wood_Density": "0.88",
+                "AGB_kg": "7.09",
+                "Carbon_Stock_kg": "3.55"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.635376,
+                    1.558047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Tree_ID": "UTMBERSERIA00321",
+                "Common_Name": "Black Penda",
+                "Scientific_Name": "Xanthostemon Chrysanthus",
+                "Growth_Rate_cm": "3.00",
+                "Tree_Age": "20.1",
+                "Circumference_cm": "21.00",
+                "DBH_cm": "6.70",
+                "Height_m": "3.00",
+                "Wood_Density": "0.88",
+                "AGB_kg": "7.09",
+                "Carbon_Stock_kg": "3.55"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.635376,
+                    1.558047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Tree_ID": "UTMBERSERIA00322",
+                "Common_Name": "Black Penda",
+                "Scientific_Name": "Xanthostemon Chrysanthus",
+                "Growth_Rate_cm": "3.00",
+                "Tree_Age": "20.1",
+                "Circumference_cm": "21.00",
+                "DBH_cm": "6.70",
+                "Height_m": "3.00",
+                "Wood_Density": "0.88",
+                "AGB_kg": "7.09",
+                "Carbon_Stock_kg": "3.55"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.635376,
+                    1.558047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Tree_ID": "UTMBERSERIA00323",
+                "Common_Name": "Black Penda",
+                "Scientific_Name": "Xanthostemon Chrysanthus",
+                "Growth_Rate_cm": "3.00",
+                "Tree_Age": "20.1",
+                "Circumference_cm": "21.00",
+                "DBH_cm": "6.70",
+                "Height_m": "3.00",
+                "Wood_Density": "0.88",
+                "AGB_kg": "7.09",
+                "Carbon_Stock_kg": "3.55"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.635376,
+                    1.558047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Tree_ID": "UTMBERSERIA00324",
+                "Common_Name": "Black Penda",
+                "Scientific_Name": "Xanthostemon Chrysanthus",
+                "Growth_Rate_cm": "3.00",
+                "Tree_Age": "20.1",
+                "Circumference_cm": "21.00",
+                "DBH_cm": "6.70",
+                "Height_m": "3.00",
+                "Wood_Density": "0.88",
+                "AGB_kg": "7.09",
+                "Carbon_Stock_kg": "3.55"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.635376,
+                    1.558047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Tree_ID": "UTMBERSERIA00325",
+                "Common_Name": "Black Penda",
+                "Scientific_Name": "Xanthostemon Chrysanthus",
+                "Growth_Rate_cm": "3.00",
+                "Tree_Age": "20.1",
+                "Circumference_cm": "21.00",
+                "DBH_cm": "6.70",
+                "Height_m": "3.00",
+                "Wood_Density": "0.88",
+                "AGB_kg": "7.09",
+                "Carbon_Stock_kg": "3.55"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.635376,
+                    1.558047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Tree_ID": "UTMBERSERIA00326",
+                "Common_Name": "Black Penda",
+                "Scientific_Name": "Xanthostemon Chrysanthus",
+                "Growth_Rate_cm": "3.00",
+                "Tree_Age": "20.1",
+                "Circumference_cm": "21.00",
+                "DBH_cm": "6.70",
+                "Height_m": "3.00",
+                "Wood_Density": "0.88",
+                "AGB_kg": "7.09",
+                "Carbon_Stock_kg": "3.55"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.635376,
+                    1.558047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Tree_ID": "UTMBERSERIA00327",
+                "Common_Name": "Black Penda",
+                "Scientific_Name": "Xanthostemon Chrysanthus",
+                "Growth_Rate_cm": "3.00",
+                "Tree_Age": "20.1",
+                "Circumference_cm": "21.00",
+                "DBH_cm": "6.70",
+                "Height_m": "3.00",
+                "Wood_Density": "0.88",
+                "AGB_kg": "7.09",
+                "Carbon_Stock_kg": "3.55"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.635376,
+                    1.558047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Tree_ID": "UTMBERSERIA00328",
+                "Common_Name": "Black Penda",
+                "Scientific_Name": "Xanthostemon Chrysanthus",
+                "Growth_Rate_cm": "3.00",
+                "Tree_Age": "20.1",
+                "Circumference_cm": "21.00",
+                "DBH_cm": "6.70",
+                "Height_m": "3.00",
+                "Wood_Density": "0.88",
+                "AGB_kg": "7.09",
+                "Carbon_Stock_kg": "3.55"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.635376,
+                    1.558047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Tree_ID": "UTMBERSERIA00329",
+                "Common_Name": "Black Penda",
+                "Scientific_Name": "Xanthostemon Chrysanthus",
+                "Growth_Rate_cm": "3.00",
+                "Tree_Age": "20.1",
+                "Circumference_cm": "21.00",
+                "DBH_cm": "6.70",
+                "Height_m": "3.00",
+                "Wood_Density": "0.88",
+                "AGB_kg": "7.09",
+                "Carbon_Stock_kg": "3.55"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.635376,
+                    1.558047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Tree_ID": "UTMBERSERIA00330",
+                "Common_Name": "Black Penda",
+                "Scientific_Name": "Xanthostemon Chrysanthus",
+                "Growth_Rate_cm": "3.00",
+                "Tree_Age": "20.1",
+                "Circumference_cm": "21.00",
+                "DBH_cm": "6.70",
+                "Height_m": "3.00",
+                "Wood_Density": "0.88",
+                "AGB_kg": "7.09",
+                "Carbon_Stock_kg": "3.55"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.635376,
+                    1.558047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Tree_ID": "UTMBERSERIA00331",
+                "Common_Name": "Black Penda",
+                "Scientific_Name": "Xanthostemon Chrysanthus",
+                "Growth_Rate_cm": "3.00",
+                "Tree_Age": "20.1",
+                "Circumference_cm": "21.00",
+                "DBH_cm": "6.70",
+                "Height_m": "3.00",
+                "Wood_Density": "0.88",
+                "AGB_kg": "7.09",
+                "Carbon_Stock_kg": "3.55"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.635376,
+                    1.558047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Tree_ID": "UTMBERSERIA00333",
+                "Common_Name": "Black Penda",
+                "Scientific_Name": "Xanthostemon Chrysanthus",
+                "Growth_Rate_cm": "3.00",
+                "Tree_Age": "20.1",
+                "Circumference_cm": "21.00",
+                "DBH_cm": "6.70",
+                "Height_m": "3.00",
+                "Wood_Density": "0.88",
+                "AGB_kg": "7.09",
+                "Carbon_Stock_kg": "3.55"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.635376,
+                    1.558047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Tree_ID": "UTMBERSERIA00334",
+                "Common_Name": "Black Penda",
+                "Scientific_Name": "Xanthostemon Chrysanthus",
+                "Growth_Rate_cm": "3.00",
+                "Tree_Age": "20.1",
+                "Circumference_cm": "21.00",
+                "DBH_cm": "6.70",
+                "Height_m": "3.00",
+                "Wood_Density": "0.88",
+                "AGB_kg": "7.90",
+                "Carbon_Stock_kg": "3.55"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.635376,
+                    1.558047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Tree_ID": "UTMBERSERIA00335",
+                "Common_Name": "Black Penda",
+                "Scientific_Name": "Xanthostemon Chrysanthus",
+                "Growth_Rate_cm": "3.00",
+                "Tree_Age": "20.1",
+                "Circumference_cm": "21.00",
+                "DBH_cm": "6.70",
+                "Height_m": "3.00",
+                "Wood_Density": "0.88",
+                "AGB_kg": "7.09",
+                "Carbon_Stock_kg": "3.55"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.635376,
+                    1.558047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Tree_ID": "UTMBERSERIA00336",
+                "Common_Name": "Black Penda",
+                "Scientific_Name": "Xanthostemon Chrysanthus",
+                "Growth_Rate_cm": "3.00",
+                "Tree_Age": "20.1",
+                "Circumference_cm": "21.00",
+                "DBH_cm": "6.70",
+                "Height_m": "3.00",
+                "Wood_Density": "0.88",
+                "AGB_kg": "7.90",
+                "Carbon_Stock_kg": "3.55"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.635376,
+                    1.558047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Tree_ID": "UTMBERSERIA00337",
+                "Common_Name": "Black Penda",
+                "Scientific_Name": "Xanthostemon Chrysanthus",
+                "Growth_Rate_cm": "3.00",
+                "Tree_Age": "20.1",
+                "Circumference_cm": "21.00",
+                "DBH_cm": "6.70",
+                "Height_m": "3.00",
+                "Wood_Density": "0.88",
+                "AGB_kg": "7.90",
+                "Carbon_Stock_kg": "3.55"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.635376,
+                    1.558047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Tree_ID": "UTMBERSERIA00340",
+                "Common_Name": "Black Penda",
+                "Scientific_Name": "Xanthostemon Chrysanthus",
+                "Growth_Rate_cm": "3.00",
+                "Tree_Age": "20.1",
+                "Circumference_cm": "21.00",
+                "DBH_cm": "6.70",
+                "Height_m": "3.00",
+                "Wood_Density": "0.88",
+                "AGB_kg": "7.09",
+                "Carbon_Stock_kg": "3.55"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.635376,
+                    1.558047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Tree_ID": "UTMBERSERIA00341",
+                "Common_Name": "Black Penda",
+                "Scientific_Name": "Xanthostemon Chrysanthus",
+                "Growth_Rate_cm": "3.00",
+                "Tree_Age": "20.1",
+                "Circumference_cm": "21.00",
+                "DBH_cm": "6.70",
+                "Height_m": "3.00",
+                "Wood_Density": "0.88",
+                "AGB_kg": "7.09",
+                "Carbon_Stock_kg": "3.55"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.635376,
+                    1.558047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Tree_ID": "UTMBERSERIA00342",
+                "Common_Name": "Black Penda",
+                "Scientific_Name": "Xanthostemon Chrysanthus",
+                "Growth_Rate_cm": "3.00",
+                "Tree_Age": "20.1",
+                "Circumference_cm": "21.00",
+                "DBH_cm": "6.70",
+                "Height_m": "3.00",
+                "Wood_Density": "0.88",
+                "AGB_kg": "7.09",
+                "Carbon_Stock_kg": "3.55"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.635376,
+                    1.558047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Tree_ID": "UTMBERSERIA00345",
+                "Common_Name": "Black Penda",
+                "Scientific_Name": "Xanthostemon Chrysanthus",
+                "Growth_Rate_cm": "3.00",
+                "Tree_Age": "20.1",
+                "Circumference_cm": "21.00",
+                "DBH_cm": "6.70",
+                "Height_m": "3.00",
+                "Wood_Density": "0.88",
+                "AGB_kg": "7.09",
+                "Carbon_Stock_kg": "3.55"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.635376,
+                    1.558047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Tree_ID": "UTMBERSERIA00348",
+                "Common_Name": "Black Penda",
+                "Scientific_Name": "Xanthostemon Chrysanthus",
+                "Growth_Rate_cm": "3.00",
+                "Tree_Age": "20.1",
+                "Circumference_cm": "21.00",
+                "DBH_cm": "6.70",
+                "Height_m": "3.00",
+                "Wood_Density": "0.88",
+                "AGB_kg": "7.09",
+                "Carbon_Stock_kg": "3.55"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.635376,
+                    1.558047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Tree_ID": "UTMBERSERIA00349",
+                "Common_Name": "Black Penda",
+                "Scientific_Name": "Xanthostemon Chrysanthus",
+                "Growth_Rate_cm": "3.00",
+                "Tree_Age": "20.1",
+                "Circumference_cm": "21.00",
+                "DBH_cm": "6.70",
+                "Height_m": "3.00",
+                "Wood_Density": "0.83",
+                "AGB_kg": "7.09",
+                "Carbon_Stock_kg": "3.55"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.635376,
+                    1.558047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Tree_ID": "UTMBERSERIA00350",
+                "Common_Name": "Black Penda",
+                "Scientific_Name": "Xanthostemon Chrysanthus",
+                "Growth_Rate_cm": "3.00",
+                "Tree_Age": "20.1",
+                "Circumference_cm": "21.00",
+                "DBH_cm": "6.70",
+                "Height_m": "3.00",
+                "Wood_Density": "0.88",
+                "AGB_kg": "7.09",
+                "Carbon_Stock_kg": "3.55"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.635376,
+                    1.558047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Tree_ID": "UTMBERSERIA00351",
+                "Common_Name": "Black Penda",
+                "Scientific_Name": "Xanthostemon Chrysanthus",
+                "Growth_Rate_cm": "3.00",
+                "Tree_Age": "20.1",
+                "Circumference_cm": "21.00",
+                "DBH_cm": "6.70",
+                "Height_m": "3.00",
+                "Wood_Density": "0.83",
+                "AGB_kg": "7.09",
+                "Carbon_Stock_kg": "3.55"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.635376,
+                    1.558047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Tree_ID": "UTMBERSERIA00352",
+                "Common_Name": "Black Penda",
+                "Scientific_Name": "Xanthostemon Chrysanthus",
+                "Growth_Rate_cm": "3.00",
+                "Tree_Age": "20.1",
+                "Circumference_cm": "21.00",
+                "DBH_cm": "6.70",
+                "Height_m": "3.00",
+                "Wood_Density": "0.83",
+                "AGB_kg": "7.09",
+                "Carbon_Stock_kg": "3.55"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.635376,
+                    1.558047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Tree_ID": "UTMBERSERIA00355",
+                "Common_Name": "Black Penda",
+                "Scientific_Name": "Xanthostemon Chrysanthus",
+                "Growth_Rate_cm": "3.00",
+                "Tree_Age": "20.1",
+                "Circumference_cm": "21.00",
+                "DBH_cm": "6.70",
+                "Height_m": "3.00",
+                "Wood_Density": "0.83",
+                "AGB_kg": "7.09",
+                "Carbon_Stock_kg": "3.55"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.635376,
+                    1.558047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Tree_ID": "UTMBERSERIA00357",
+                "Common_Name": "Black Penda",
+                "Scientific_Name": "Xanthostemon Chrysanthus",
+                "Growth_Rate_cm": "3.00",
+                "Tree_Age": "20.1",
+                "Circumference_cm": "21.00",
+                "DBH_cm": "6.70",
+                "Height_m": "3.00",
+                "Wood_Density": "0.83",
+                "AGB_kg": "7.09",
+                "Carbon_Stock_kg": "3.55"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.635376,
+                    1.558047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Tree_ID": "UTMBERSERIA00358",
+                "Common_Name": "Black Penda",
+                "Scientific_Name": "Xanthostemon Chrysanthus",
+                "Growth_Rate_cm": "3.00",
+                "Tree_Age": "20.1",
+                "Circumference_cm": "21.00",
+                "DBH_cm": "6.70",
+                "Height_m": "3.00",
+                "Wood_Density": "0.83",
+                "AGB_kg": "7.09",
+                "Carbon_Stock_kg": "3.55"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.635376,
+                    1.558047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Tree_ID": "UTMBERSERIA00360",
+                "Common_Name": "Black Penda",
+                "Scientific_Name": "Xanthostemon Chrysanthus",
+                "Growth_Rate_cm": "3.00",
+                "Tree_Age": "20.1",
+                "Circumference_cm": "21.00",
+                "DBH_cm": "6.70",
+                "Height_m": "3.00",
+                "Wood_Density": "0.83",
+                "AGB_kg": "7.09",
+                "Carbon_Stock_kg": "3.55"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.635376,
+                    1.558047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Tree_ID": "UTMBERSERIA00361",
+                "Common_Name": "Black Penda",
+                "Scientific_Name": "Xanthostemon Chrysanthus",
+                "Growth_Rate_cm": "3.00",
+                "Tree_Age": "20.1",
+                "Circumference_cm": "21.00",
+                "DBH_cm": "6.70",
+                "Height_m": "3.00",
+                "Wood_Density": "0.83",
+                "AGB_kg": "7.09",
+                "Carbon_Stock_kg": "3.55"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.635376,
+                    1.558047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Tree_ID": "UTMBERSERIA00362",
+                "Common_Name": "Black Penda",
+                "Scientific_Name": "Xanthostemon Chrysanthus",
+                "Growth_Rate_cm": "3.00",
+                "Tree_Age": "20.1",
+                "Circumference_cm": "21.00",
+                "DBH_cm": "6.70",
+                "Height_m": "3.00",
+                "Wood_Density": "0.83",
+                "AGB_kg": "7.09",
+                "Carbon_Stock_kg": "3.55"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.635376,
+                    1.558047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Tree_ID": "UTMBERSERIA00363",
+                "Common_Name": "Black Penda",
+                "Scientific_Name": "Xanthostemon Chrysanthus",
+                "Growth_Rate_cm": "3.00",
+                "Tree_Age": "20.1",
+                "Circumference_cm": "21.00",
+                "DBH_cm": "6.70",
+                "Height_m": "3.00",
+                "Wood_Density": "0.83",
+                "AGB_kg": "7.09",
+                "Carbon_Stock_kg": "3.55"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.635376,
+                    1.558047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Tree_ID": "UTMBERSERIA00364",
+                "Common_Name": "Black Penda",
+                "Scientific_Name": "Xanthostemon Chrysanthus",
+                "Growth_Rate_cm": "3.00",
+                "Tree_Age": "20.1",
+                "Circumference_cm": "21.00",
+                "DBH_cm": "6.70",
+                "Height_m": "3.00",
+                "Wood_Density": "0.83",
+                "AGB_kg": "7.09",
+                "Carbon_Stock_kg": "3.55"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.624707,
+                    1.581188
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Tree_ID": "UTMBERSERIA00365",
+                "Common_Name": "Black Penda",
+                "Scientific_Name": "Xanthostemon Chrysanthus",
+                "Growth_Rate_cm": "3.00",
+                "Tree_Age": "20.1",
+                "Circumference_cm": "21.00",
+                "DBH_cm": "6.70",
+                "Height_m": "3.00",
+                "Wood_Density": "0.83",
+                "AGB_kg": "7.09",
+                "Carbon_Stock_kg": "3.55"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.635376,
+                    1.558047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Tree_ID": "UTMBERSERIA00366",
+                "Common_Name": "Black Penda",
+                "Scientific_Name": "Xanthostemon Chrysanthus",
+                "Growth_Rate_cm": "3.00",
+                "Tree_Age": "20.1",
+                "Circumference_cm": "21.00",
+                "DBH_cm": "6.70",
+                "Height_m": "3.00",
+                "Wood_Density": "0.83",
+                "AGB_kg": "7.09",
+                "Carbon_Stock_kg": "3.55"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.635376,
+                    1.558047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Tree_ID": "UTMBERSERIA00367",
+                "Common_Name": "Black Penda",
+                "Scientific_Name": "Xanthostemon Chrysanthus",
+                "Growth_Rate_cm": "3.00",
+                "Tree_Age": "20.1",
+                "Circumference_cm": "21.00",
+                "DBH_cm": "6.70",
+                "Height_m": "3.00",
+                "Wood_Density": "0.83",
+                "AGB_kg": "7.09",
+                "Carbon_Stock_kg": "3.55"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.635376,
+                    1.558047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Tree_ID": "UTMBERSERIA00368",
+                "Common_Name": "Black Penda",
+                "Scientific_Name": "Xanthostemon Chrysanthus",
+                "Growth_Rate_cm": "3.00",
+                "Tree_Age": "20.1",
+                "Circumference_cm": "21.00",
+                "DBH_cm": "6.70",
+                "Height_m": "3.00",
+                "Wood_Density": "0.83",
+                "AGB_kg": "7.09",
+                "Carbon_Stock_kg": "3.55"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.635376,
+                    1.558047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Tree_ID": "UTMBERSERIA00369",
+                "Common_Name": "Black Penda",
+                "Scientific_Name": "Xanthostemon Chrysanthus",
+                "Growth_Rate_cm": "3.00",
+                "Tree_Age": "20.1",
+                "Circumference_cm": "21.00",
+                "DBH_cm": "6.70",
+                "Height_m": "3.00",
+                "Wood_Density": "0.83",
+                "AGB_kg": "7.09",
+                "Carbon_Stock_kg": "3.55"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.635376,
+                    1.558047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Tree_ID": "UTMBERSERIA00370",
+                "Common_Name": "Black Penda",
+                "Scientific_Name": "Xanthostemon Chrysanthus",
+                "Growth_Rate_cm": "3.00",
+                "Tree_Age": "20.1",
+                "Circumference_cm": "21.00",
+                "DBH_cm": "6.70",
+                "Height_m": "3.00",
+                "Wood_Density": "0.83",
+                "AGB_kg": "7.09",
+                "Carbon_Stock_kg": "3.55"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.635376,
+                    1.558047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Tree_ID": "UTMBERSERIA00371",
+                "Common_Name": "Black Penda",
+                "Scientific_Name": "Xanthostemon Chrysanthus",
+                "Growth_Rate_cm": "3.00",
+                "Tree_Age": "20.1",
+                "Circumference_cm": "21.00",
+                "DBH_cm": "6.70",
+                "Height_m": "3.00",
+                "Wood_Density": "0.88",
+                "AGB_kg": "7.09",
+                "Carbon_Stock_kg": "3.55"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.635376,
+                    1.558047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Tree_ID": "UTMBERSERIA00372",
+                "Common_Name": "Black Penda",
+                "Scientific_Name": "Xanthostemon Chrysanthus",
+                "Growth_Rate_cm": "2.10",
+                "Tree_Age": "14.1",
+                "Circumference_cm": "21.00",
+                "DBH_cm": "6.70",
+                "Height_m": "3.00",
+                "Wood_Density": "0.83",
+                "AGB_kg": "7.09",
+                "Carbon_Stock_kg": "3.55"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.635376,
+                    1.558047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Tree_ID": "UTMBERSERIA00380",
+                "Common_Name": "Black Penda",
+                "Scientific_Name": "Xanthostemon Chrysanthus",
+                "Growth_Rate_cm": "3.00",
+                "Tree_Age": "20.1",
+                "Circumference_cm": "27.00",
+                "DBH_cm": "6.70",
+                "Height_m": "3.00",
+                "Wood_Density": "0.88",
+                "AGB_kg": "7.09",
+                "Carbon_Stock_kg": "3.55"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.635376,
+                    1.558047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Tree_ID": "UTMBERSERIA00381",
+                "Common_Name": "Black Penda",
+                "Scientific_Name": "Xanthostemon Chrysanthus",
+                "Growth_Rate_cm": "3.00",
+                "Tree_Age": "20.1",
+                "Circumference_cm": "21.00",
+                "DBH_cm": "6.70",
+                "Height_m": "3.00",
+                "Wood_Density": "0.88",
+                "AGB_kg": "7.09",
+                "Carbon_Stock_kg": "3.55"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.635376,
+                    1.558047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Tree_ID": "UTMBERSERIA00382",
+                "Common_Name": "Black Penda",
+                "Scientific_Name": "Xanthostemon Chrysanthus",
+                "Growth_Rate_cm": "3.00",
+                "Tree_Age": "20.1",
+                "Circumference_cm": "21.00",
+                "DBH_cm": "6.70",
+                "Height_m": "3.00",
+                "Wood_Density": "0.88",
+                "AGB_kg": "7.09",
+                "Carbon_Stock_kg": "3.55"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.635376,
+                    1.558047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Tree_ID": "UTMBERSERIA00383",
+                "Common_Name": "Mango tree",
+                "Scientific_Name": "-",
+                "Growth_Rate_cm": "1.20",
+                "Tree_Age": "8.0",
+                "Circumference_cm": "21.00",
+                "DBH_cm": "6.70",
+                "Height_m": "3.00",
+                "Wood_Density": "0.88",
+                "AGB_kg": "7.09",
+                "Carbon_Stock_kg": "3.55"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.620501,
+                    1.576056
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Tree_ID": "UTMBERSERIA00384",
+                "Common_Name": "Black Penda",
+                "Scientific_Name": "Xanthostemon Chrysanthus",
+                "Growth_Rate_cm": "2.10",
+                "Tree_Age": "14.1",
+                "Circumference_cm": "21.00",
+                "DBH_cm": "6.70",
+                "Height_m": "3.00",
+                "Wood_Density": "0.88",
+                "AGB_kg": "7.09",
+                "Carbon_Stock_kg": "3.55"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.635376,
+                    1.558047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Tree_ID": "UTMBERSERIA00385",
+                "Common_Name": "Black Penda",
+                "Scientific_Name": "Xanthostemon Chrysanthus",
+                "Growth_Rate_cm": "2.10",
+                "Tree_Age": "14.1",
+                "Circumference_cm": "21.00",
+                "DBH_cm": "6.70",
+                "Height_m": "3.00",
+                "Wood_Density": "0.88",
+                "AGB_kg": "7.09",
+                "Carbon_Stock_kg": "3.55"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.635376,
+                    1.558047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Tree_ID": "UTMBERSERIA00386",
+                "Common_Name": "Black Penda",
+                "Scientific_Name": "Xanthostemon Chrysanthus",
+                "Growth_Rate_cm": "2.10",
+                "Tree_Age": "14.1",
+                "Circumference_cm": "21.00",
+                "DBH_cm": "6.70",
+                "Height_m": "3.00",
+                "Wood_Density": "0.88",
+                "AGB_kg": "7.09",
+                "Carbon_Stock_kg": "3.55"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.635376,
+                    1.558047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Tree_ID": "UTMBERSERIA00387",
+                "Common_Name": "Black Penda",
+                "Scientific_Name": "Xanthostemon Chrysanthus",
+                "Growth_Rate_cm": "2.10",
+                "Tree_Age": "14.1",
+                "Circumference_cm": "21.00",
+                "DBH_cm": "6.70",
+                "Height_m": "3.00",
+                "Wood_Density": "0.88",
+                "AGB_kg": "7.09",
+                "Carbon_Stock_kg": "3.55"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.635376,
+                    1.558047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Tree_ID": "UTMBERSERIA00388",
+                "Common_Name": "Bongor Biru",
+                "Scientific_Name": "Lagerstroemia Speciosa",
+                "Growth_Rate_cm": "2.10",
+                "Tree_Age": "60.9",
+                "Circumference_cm": "90.00",
+                "DBH_cm": "29.00",
+                "Height_m": "13.00",
+                "Wood_Density": "0.00",
+                "AGB_kg": "354.70",
+                "Carbon_Stock_kg": "177.40"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.6353,
+                    1.504
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Tree_ID": "UTMBERSERIA00389",
+                "Common_Name": "Bongor Biru",
+                "Scientific_Name": "Lagerstroemia Speciosa",
+                "Growth_Rate_cm": "2.10",
+                "Tree_Age": "60.9",
+                "Circumference_cm": "90.00",
+                "DBH_cm": "29.00",
+                "Height_m": "13.00",
+                "Wood_Density": "0.00",
+                "AGB_kg": "354.70",
+                "Carbon_Stock_kg": "177.40"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.635297,
+                    1.50416
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Tree_ID": "UTMBERSERIA00390",
+                "Common_Name": "Black Penda",
+                "Scientific_Name": "Xanthostemon Chrysanthus",
+                "Growth_Rate_cm": "2.10",
+                "Tree_Age": "14.1",
+                "Circumference_cm": "21.00",
+                "DBH_cm": "6.70",
+                "Height_m": "3.00",
+                "Wood_Density": "0.88",
+                "AGB_kg": "7.09",
+                "Carbon_Stock_kg": "3.55"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.635376,
+                    1.558047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Tree_ID": "UTMBERSERIA00391",
+                "Common_Name": "Black Penda",
+                "Scientific_Name": "Xanthostemon Chrysanthus",
+                "Growth_Rate_cm": "2.10",
+                "Tree_Age": "14.1",
+                "Circumference_cm": "21.00",
+                "DBH_cm": "6.70",
+                "Height_m": "3.00",
+                "Wood_Density": "0.88",
+                "AGB_kg": "7.09",
+                "Carbon_Stock_kg": "3.55"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.635376,
+                    1.558047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Tree_ID": "UTMBERSERIA00395",
+                "Common_Name": "Black Penda",
+                "Scientific_Name": "Xanthostemon Chrysanthus",
+                "Growth_Rate_cm": "1.20",
+                "Tree_Age": "8.0",
+                "Circumference_cm": "21.00",
+                "DBH_cm": "6.70",
+                "Height_m": "3.00",
+                "Wood_Density": "0.83",
+                "AGB_kg": "7.09",
+                "Carbon_Stock_kg": "3.55"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    103.635376,
+                    1.558047
+                ]
+            }
+        }
+    ]
+}
